@@ -15,6 +15,8 @@ echo "05-special variables.sh"
 
 # $0  : is the name of the script you are running
 
+
+a=1000
 TEAM=$1
 PROJECT=$2
 echo "value of a is $a"

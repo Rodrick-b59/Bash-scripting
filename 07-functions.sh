@@ -19,6 +19,7 @@
 # Functions are used to make the code more stable
 # Functions are used to make the code more maintainable
 
+
 # alias is used to create a shortcut for a command
 
 3 # Aliases, when you logged off the aliases are gone
@@ -31,3 +32,5 @@
 # to see the hidden files use ls -a
 # to edit the file use vi .bash_profile
 # to make the aliases permanent add the aliases to the .bash_profile file
+
+stat

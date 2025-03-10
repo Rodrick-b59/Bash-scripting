@@ -12,4 +12,6 @@ echo "value of a is $a"
 echo "scriptName is $0"
 echo "name of the team is $TEAM"
 echo "Name of the team is $PROJECT"
+echo "Number Of Arguments In Script are $#"
 
+# $# prints the number of arguments in the script

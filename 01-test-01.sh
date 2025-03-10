@@ -25,5 +25,5 @@ echo "scriptName is $)"
 echo $0    #prints scriptname
 echo "Number Of Arguments In Script are $#"
 echo "Exit Status Of Previous Command $?"
-echo "Arguments In The Script Are $*"
+echo "Arguments In The Script Are $*" 
 echo "Arguments In The Script Are $@"

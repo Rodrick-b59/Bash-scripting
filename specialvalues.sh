@@ -7,7 +7,9 @@
 
 a=1000
 TEAM=$1
+PROJECT=$2
 echo "value of a is $a"
 echo "scriptName is $0"
-echo "Name of the team is $TEAM"
+echo "name of the team is $TEAM"
+echo "Name of the team is $PROJECT"
 

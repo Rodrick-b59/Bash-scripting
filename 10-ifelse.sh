@@ -8,5 +8,5 @@ if [ "$ACTION" == "start" ]; then  # the below command will only work if the con
     echo "start the service"
 else
     echo "valid arguments are start"
-    echo -e "EX: \n\t bash $0 start"
+    echo -e "EX: \n\t \e[35m bash $0 start \e[0m]"
 fi    

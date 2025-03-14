@@ -17,9 +17,9 @@
 # fi      # fi is used when you want to close (end of syntax)
 
 #
-if [ $ACTION == "start" ]; then
+if [ "$ACTION" == "start" ]; then
     echo "Starting the service"
-elif [ $ACTION == "stop" ]; then
+elif [ "$ACTION" == "stop" ]; then
     echo "Stopping the service"
 else
     echo "Invalid action"

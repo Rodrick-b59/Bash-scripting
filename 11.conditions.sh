@@ -16,7 +16,7 @@
   #  commands
 # fi      # fi is used when you want to close (end of syntax)
 
-#
+#demo on elif
 if [ "$ACTION" == "start" ]; then
     echo "Starting the service"
 elif [ "$ACTION" == "stop" ]; then

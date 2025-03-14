@@ -19,4 +19,4 @@ while [ $count -le 5 ]; do
     count=$((count+1))
 done
 
-echo "loop finished"
+echo "while loop finished"

@@ -12,4 +12,11 @@ for i in 1 2 3 4 5 ; do
 done
 
 
+echo "While loop demo"
+count=1
+while [ $count -le 5 ]; do
+    echo "count is: $count"
+    count=$((count+1))
+done
 
+echo "loop finished"
